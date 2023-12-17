@@ -8,7 +8,7 @@ Acest proiect a fost creat cu ajutorul Parcel. Pentru familiarizare și configur
    [Descarcă și instalează](https://nodejs.org/en/) dacă este necesar.
 2. Clonează acest depozit.
 3. Schimbă numele folderului din `parcel-project-template` în numele proiectului tău.
-4. Creează un depozit nou și gol pe GitHub.
+4. Creează un depozit nou și gol pe Gi tHub.
 5. Deschide proiectul în VSCode, pornește terminalul și conectează proiectul cu depozitul GitHub
    [conform instrucțiunilor](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
 6. Setează dependențele proiectului în terminal cu ajutorul comenzii `npm install` .
